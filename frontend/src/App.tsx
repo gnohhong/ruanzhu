@@ -264,7 +264,7 @@ function App() {
             <div className="panel-heading">
               <span>04</span>
               <div>
-                <h2>水分预测结果</h2>
+                <h2>水分预测结果!</h2>
                 <p>当前模型输出与萎凋状态</p>
               </div>
             </div>
